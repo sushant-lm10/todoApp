@@ -114,8 +114,9 @@ background-color: rgb(165, 165, 165);
 }
 
 @media screen and (max-width:395px){
-.row{
-padding-left: 0;}
+
+button{
+  padding: 1em 1.2em;
 }
 
-
+}
